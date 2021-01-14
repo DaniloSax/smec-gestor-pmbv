@@ -14,7 +14,6 @@
         <q-toolbar-title>
           SMEC-GESTOR
         </q-toolbar-title>
-        <input type="text" placeholder="dsadsadsa" />
         <div>versão {{ $q.version }}</div>
       </q-toolbar>
     </q-header>
